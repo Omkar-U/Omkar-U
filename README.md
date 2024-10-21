@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omkar-U
+- 👋 Hi, I’m @Omkar-Ugare
 - 👀 I’m interested in Deveploping New Things
 - 🌱 I’m currently learning Baisc Coding 
 
